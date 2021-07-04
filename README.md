@@ -1,4 +1,4 @@
-### Golang First Contact
+# Golang First Contact
 
 This is my first contact with Go language.
 If you also want to start with GO, you may clone this repository, start de container and enjoy it.
